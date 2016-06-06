@@ -36,17 +36,17 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background-image: url(../img/Banner_new.png), url(../img/Black_Booku.com_logo.png);
-    height: 100%;
-    width:100%;
-    background-size: cover;
-    background-position: fixed;
+    background-image: url(../img/Banner_new.jpeg) ;
+
 }
 
 .intro-message {
     position: relative;
     padding-top: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 0%;
+    background-image: url(../img/White_Booku_logo.png);
+    background-size: contain;
+    background-repeat:   no-repeat;
 }
 
 .intro-message > h1 {
@@ -127,8 +127,9 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url('../img/banner-bg.jpg') no-repeat center center;
+    background: url('../img/Banner_new.jpeg') no-repeat center center;
     background-size: cover;
+    text-align: center;
 }
 
 .banner h2 {
