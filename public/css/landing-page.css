@@ -45,8 +45,11 @@ h6 {
     padding-top: 20%;
     padding-bottom: 0%;
     background-image: url(../img/White_Booku_logo.png);
-    background-size: contain;
+    background-size: 50%;
     background-repeat:   no-repeat;
+    background-position: center 15%;
+    /* make logo smaller */
+
 }
 
 .intro-message > h1 {
