@@ -42,13 +42,12 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
+    padding-top: 13%;
     padding-bottom: 0%;
     background-image: url(../img/White_Booku_logo.png);
     background-size: 50%;
     background-repeat:   no-repeat;
     background-position: center 15%;
-    /* make logo smaller */
 
 }
 
@@ -71,6 +70,7 @@ h6 {
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
+        padding-top: 20%;
     }
 
     .intro-message > h1 {
