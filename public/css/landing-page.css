@@ -36,7 +36,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background-image: url(../img/Banner_Stage.png) ;
+    background-image: url(../img/Banner_2_crowd.png);
+    background-size: cover;
 
 }
 
